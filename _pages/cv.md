@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Philosophy, Universidad de Puerto Rico, Recinto Universitario de Mayagüez, 2019
+* M.S. in Human Language Technologies, University of Arizona, 2021 (expected)
+* Ph.D in Linguistics, University of Arizona, 2024 (expected)
 
 Work experience
 ======
