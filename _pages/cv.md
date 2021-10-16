@@ -52,6 +52,14 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Skills
+======
+* Skill 1
+* Languages
+  * Fluent: Spanish, English 
+  * Intermediate: Scottish Gaelic
+  * Beginner: Irish, Manx
   
 Service and leadership
 ======
