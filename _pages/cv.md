@@ -29,12 +29,13 @@ Work experience
   
 Skills
 ======
-* Skill 1
 * Languages
-  * Fluent: Spanish, English 
-  * Intermediate: Scottish Gaelic
-  * Beginner: Irish, Manx
-
+  * **Fluent**: Spanish, English 
+  * **Intermediate: Scottish Gaelic
+  * **Beginner**: Irish, Manx
+* Programming and Markup Languages: 
+  * **Expert**: Latex
+  * **Intermediate**: Python 
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -43,23 +44,22 @@ Publications
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
+  <!-- <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
+  <!-- <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Skills
-======
-* Skill 1
-* Languages
-  * Fluent: Spanish, English 
-  * Intermediate: Scottish Gaelic
-  * Beginner: Irish, Manx
+  {% endfor %}</ul> -->
+* NSCS 320: Issues and Themes in Cognitive Sciente
+  * Fall 2019, University of Arizona
+  * Graduate Teaching Assistant
+  * Duties included: 
+    * Grade weekly assignments
+    * Lead monthly lectures
+  * Supervisor: Massimo Piatelli-Palmarini
   
 Service and leadership
 ======
