@@ -50,9 +50,16 @@ Talks
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
+  <!-- <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
+  * Fall 2019: NSCS320 Issues and Themes in Cognitive Sciene
+    * University of Arizona
+    * Graduate Teaching Assistant
+    * Duties included: 
+      * Grading assingments
+      * Leading monthly lectures
+    * Supervisor: Dr. Massimo Piatelli-Palmarini
   
 Service and leadership
 ======
