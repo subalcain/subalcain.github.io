@@ -30,11 +30,11 @@ Work experience
 Skills
 ======
 * Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages
+  * Fluent: Spanish, English 
+  * Intermediate: Scottish Gaelic
+  * Beginner: Irish, Manx
+
 
 Publications
 ======
@@ -50,13 +50,9 @@ Talks
   
 Teaching
 ======
-* Fall 2019: NSCS320 Issues and Themes in Cognitive Sciene
-  * University of Arizona
-  * Graduate Teaching Assistant
-  * Duties included: 
-    * Grading assingments
-    * Leading monthly lectures
-  * Supervisor: Dr. Massimo Piatelli-Palmarini
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
   
 Service and leadership
 ======
