@@ -35,7 +35,6 @@ Skills
   * Intermediate: Scottish Gaelic
   * Beginner: Irish, Manx
 
-
 Publications
 ======
   <ul>{% for post in site.publications %}
