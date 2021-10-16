@@ -36,24 +36,17 @@ Skills
 * Programming and Markup Languages: 
   * **Expert**: Latex
   * **Intermediate**: Python 
-  
+
 Publications
 ======
-  <!-- <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
+
   
 Talks
 ======
-  <!-- <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul> -->
+ 
   
 Teaching
 ======
-  <!-- <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
 * NSCS 320: Issues and Themes in Cognitive Sciente
   * Fall 2019, University of Arizona
   * Graduate Teaching Assistant
