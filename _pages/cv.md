@@ -50,9 +50,6 @@ Talks
   
 Teaching
 ======
-  <!-- <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
 * Fall 2019: NSCS320 Issues and Themes in Cognitive Sciene
   * University of Arizona
   * Graduate Teaching Assistant
@@ -64,3 +61,7 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+<!-- <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul> -->
