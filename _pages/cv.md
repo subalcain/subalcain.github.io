@@ -31,11 +31,12 @@ Skills
 ======
 * Languages
   * **Fluent**: Spanish, English 
-  * **Intermediate: Scottish Gaelic
+  * **Intermediate**: Scottish Gaelic
   * **Beginner**: Irish, Manx
 * Programming and Markup Languages: 
   * **Expert**: Latex
   * **Intermediate**: Python 
+  
 Publications
 ======
   <!-- <ul>{% for post in site.publications %}
