@@ -27,7 +27,7 @@ Teaching/Work Experience
     * Grade weekly assignments
   * Supervisor: Amy V. Fountain
 
-* **LING 432: The Structure and Meaning of Words**
+* **LING 432: The Psychology of Language**
   * Summer 2021 & Winter 2021, University of Arizona
   * Standalone Graduate Teaching Assistant
   * Duties included: 
@@ -82,11 +82,11 @@ Skills
   * **Intermediate**: Scottish Gaelic
   * **Beginner**: Irish, Manx
 * Programming and Markup Languages: 
-  * **Expert**: Latex
+  * **Expert**: LaTeX
   * **Intermediate**: Python 
 
   
-Service and leadership
+Service and Leadership
 ======
 * Graduate and Professional Student Council
   * University of Arizona
