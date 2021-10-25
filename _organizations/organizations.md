@@ -4,7 +4,7 @@ title: "Other Afiliations"
 permalink: /organizations/
 author_profile: true
 redirect_from:
-  - /resume
+  - /organizations
 ---
 
 {% include base_path %}
