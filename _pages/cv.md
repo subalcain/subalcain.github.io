@@ -20,14 +20,14 @@ Education
 
 Teaching/Work Experience
 ======
-* LING 150C1: Language in the Digital Age
+* **LING 150C1: Language in the Digital Age**
   * Fall 2021, University of Arizona
   * Grader
   * Duties included: 
     * Grade weekly assignments
   * Supervisor: Amy V. Fountain
 
-* LING 432: The Structure and Meaning of Words
+* **LING 432: The Structure and Meaning of Words**
   * Summer 2021 & Winter 2021, University of Arizona
   * Standalone Graduate Teaching Assistant
   * Duties included: 
@@ -35,7 +35,7 @@ Teaching/Work Experience
     * Lead daily lectures
   * Supervisor: Andrew B. Wedel
 
-* LING 322: The Structure and Meaning of Words
+* **LING 322: The Structure and Meaning of Words**
   * Summer 2020 & Winter 2020, University of Arizona
   * Standalone Graduate Teaching Assistant
   * Duties included: 
@@ -43,7 +43,7 @@ Teaching/Work Experience
     * Lead daily lectures
   * Supervisor: Andrew B. Wedel
 
-* LING 367: Introduction to Formal Semantics
+* **LING 367: Introduction to Formal Semantics**
   * Spring 2020, University of Arizona
   * Graduate Teaching Assistant
   * Duties included: 
@@ -52,7 +52,7 @@ Teaching/Work Experience
   * Supervisor: Robert Henderson
 
 
-* NSCS 320: Issues and Themes in Cognitive Sciente
+* **NSCS 320: Issues and Themes in Cognitive Science**
   * Fall 2019, University of Arizona
   * Graduate Teaching Assistant
   * Duties included: 
