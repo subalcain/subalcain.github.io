@@ -11,5 +11,3 @@ citation: 'Nitschke, Remo, Damian Y. Romero Diaz, Gabriela De La Cruz Sánchez, 
 ---
 
 [Download paper here](https://repository.arizona.edu/handle/10150/659844)
-
-Recommended citation: itschke, Remo, Damian Y. Romero Diaz, Gabriela De La Cruz Sánchez, John W. W. Powell, Kristina Mihajlović, Luis A. Irizarry-Figueroa, George-Michael Pescaru, Florian Hafner (eds.), &quot;Coyote Papers 23&quot; : <i>Proceedings of the Arizona Linguistics Circle 14<i>
