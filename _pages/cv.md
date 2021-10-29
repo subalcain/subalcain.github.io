@@ -73,17 +73,8 @@ Talks
 
 * A Syntactically Analyzed Corpus of Uspanteko (Forthcoming)
   * Presented at Form and Analysis in Mayan Linguistics VII
-
-  
-Skills
-======
-* Languages
-  * **Fluent**: Spanish, English 
-  * **Intermediate**: Scottish Gaelic
-  * **Beginner**: Irish, Manx
-* Programming and Markup Languages: 
-  * **Expert**: LaTeX
-  * **Intermediate**: Python 
+* Predication and Clefts in Scottish Gaelic
+  * Preseted at Arizona Linguistics Circle 15
 
   
 Service and Leadership
@@ -96,3 +87,14 @@ Service and Leadership
   * Cave Keeper
 * Awards Committee
   * University of Arizona, Linguistics Department
+
+Skills
+======
+* Languages
+  * **Fluent**: Spanish, English 
+  * **Intermediate**: Scottish Gaelic
+  * **Beginner**: Irish, Manx
+* Programming and Markup Languages: 
+  * **Expert**: LaTeX
+  * **Intermediate**: Python 
+
