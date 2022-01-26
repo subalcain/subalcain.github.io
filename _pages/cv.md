@@ -9,10 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+Updated CV (Spring 2022) can be accessed here: <a href="data:application/octet-stream,DATA" download="Irizarry_Luis_CV.pdf">Cirrucilum Vitae</a>
+
+
 Education
 ======
 * B.A. in Philosophy, Universidad de Puerto Rico, Recinto Universitario de Mayagüez, 2019
-* M.S. in Human Language Technologies, University of Arizona, 2021 (expected)
+* M.S. in Human Language Technologies, University of Arizona, 2021 
   * Specialization: Dependency Parsing
 * Ph.D in Linguistics, University of Arizona, 2024 (expected)
   * Specialization: Syntactic Theory
