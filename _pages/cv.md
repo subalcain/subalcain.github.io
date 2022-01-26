@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Updated CV (Spring 2022) can be accessed here: <a href="/subalcain.github.io/_pages/Irizarry_Luis_CV.pdf">Curriculum Vitae</a>
+Updated CV (Spring 2022) can be accessed here: <a href="/subalcain.github.io/_pages/Irizarry_Luis_CV.pdf" download="download">Curriculum Vitae</a>
 
 
 Education
