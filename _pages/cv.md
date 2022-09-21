@@ -24,6 +24,14 @@ Education
 
 Teaching/Work Experience
 ======
+
+* **LING 300: Introduction to Generative Syntax**
+  * Spring 2022, University of Arizona
+  * Teaching Assistant
+  * Duties included: 
+    * Grade weekly assignments
+  * Supervisor: Dr. Andrew Carnie 
+
 * **LING 150C1: Language in the Digital Age**
   * Fall 2021, University of Arizona
   * Grader
@@ -86,6 +94,7 @@ Service and Leadership
 * Graduate and Professional Student Council
   * University of Arizona
 * LingCircle
+  * President
   * Vice-President
   * Treasurer
   * Cave Keeper
