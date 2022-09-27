@@ -15,12 +15,14 @@ Updated CV (Spring 2022) can be accessed here: [Curriculum Vitae](https://subalc
 
 Education
 ======
-* B.A. in Philosophy, Universidad de Puerto Rico, Recinto Universitario de Mayagüez, 2019
-* M.S. in Human Language Technologies, University of Arizona, 2021 
-  * Specialization: Dependency Parsing
 * Ph.D in Linguistics, University of Arizona, 2024 (expected)
   * Specialization: Syntactic Theory
   * Minor: Hispanic Syntax
+* M.S. in Human Language Technologies, University of Arizona, 2021 
+  * Specialization: Dependency Parsing
+* B.A. in Philosophy, Universidad de Puerto Rico, Recinto Universitario de Mayagüez, 2019
+
+
 
 Teaching/Work Experience
 ======
@@ -91,8 +93,10 @@ Talks
   
 Service and Leadership
 ======
-* Graduate and Professional Student Council
-  * University of Arizona
+* Graduate and Professional Student Council - University of Arizona
+  * Graduate Student Body President - 2022-2023
+  * Secretary 2021-2022
+  * At-large Representative 2021
 * LingCircle
   * President
   * Vice-President
