@@ -8,10 +8,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Luis A. Irizarry-Figueroa"
+title                    : "Luis A. Irizarry Figueroa"
 title_separator          : "-"
-name                     : &name "Luis A. Irizarry-Figueroa"
-description              : &description "Ph.D. student in Linguistics and Human Language Technologies"
+name                     : &name "Luis A. Irizarry Figueroa"
+description              : &description "Ph.D. candidate in Linguistics and Human Language Technologies"
 url                      : https://subalcain.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "subalcain/subalcain.github.io"
@@ -82,13 +82,13 @@ analytics:
 # Site Author
 author:
   name             : "Luis A. Irizarry"
-  avatar           : "luis.jpeg"
-  bio              : "Ph.D Student in Linguistics"
+  avatar           : "luis.jpg"
+  bio              : "Ph.D Candidate in Linguistics"
   location         : "University of Arizona, Tucson AZ"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "irizarry1@email.arizona.edu"
+  email            : "irizarry1@arizona.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
