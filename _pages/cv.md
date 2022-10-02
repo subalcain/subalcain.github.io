@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Updated CV (Spring 2022) can be accessed here: [Curriculum Vitae](https://subalcain.github.io/curriculum-vitae/ "Curriculum Vitae")
+Updated CV (Fall 2022) can be accessed here: [Curriculum Vitae](https://subalcain.github.io/curriculum-vitae/ "Curriculum Vitae")
 
 
 
