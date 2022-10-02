@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Luis A. Irizarry Figueroa"
 title_separator          : "-"
 name                     : &name "Luis A. Irizarry Figueroa"
-description              : &description "Ph.D. candidate in Linguistics and Human Language Technologies"
+description              : &description "Ph.D. candidate in Linguistics"
 url                      : https://subalcain.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "subalcain/subalcain.github.io"
@@ -81,7 +81,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Luis A. Irizarry"
+  name             : "Luis A. Irizarry Figueroa"
   avatar           : "luis.jpg"
   bio              : "Ph.D Candidate in Linguistics"
   location         : "University of Arizona, Tucson AZ"
