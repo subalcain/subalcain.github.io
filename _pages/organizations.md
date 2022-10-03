@@ -3,8 +3,11 @@ layout: archive
 title: "Community Afiliations"
 permalink: /organizations/
 author_profile: true
+residirects_from: 
+  - /resume
 
 ---
+
 
 {% include base_path %}
 
