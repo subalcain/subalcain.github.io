@@ -5,7 +5,6 @@ permalink: /organizations/
 author_profile: true
 residirects_from: 
   - /resume
-
 ---
 
 
