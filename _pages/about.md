@@ -8,7 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-This website is under construction, stay tuned for updates!
+Hello there! 
+
+I am a fourth year Ph.D. candidate in Linguistics at the University of Arizona with a focus on Celtic Linguistics. I have focused in the last few years in Scottish Gaelic syntax and Manx corpora. I was born and raised in Cabo Rojo, Puerto Rico and I completed my B.A in Philosophy in the University of Puerto Rico at Mayaguez with a minor in linguistics. My Philosophy Undergraduate Thesis explored Pico Della Mirándola's Oration on the Dignity of Man and which selected lines are attributed to his Kabalistic doctrine. My Undergraduate Thesis in linguistics explored "donkey sentences" with multiple quantifiers. 
+
+Other than academics, I started working in the Graduate Student Government, the Graduate and Professional Student Council, as an At-large representative and later served as Secretary. During that time I advocated for higher education in Capitol Hill presenting requests for the support of bills that would expand Pell Grants for Graduate Students and Increase funding to support Support Higher Education in Arizona. Currently I am serving as GPSC President for the academic year 2022 - 2023 and among my goals are to bring better healthcare benefits to graduate and professional students and to advocate for graduate student financial stress relief. Outside of linguistics research and GPSC, I devote my time to the support of philanthropic groups such as Shriners Hospitals for Children, and the Knights Templar Eye Foundation, among others.
+
 
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
