@@ -18,8 +18,8 @@ main:
   - title: "Community Affiliations"
     url: /affiliations/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  # - title: "Portfolio"
+  #   url: /portfolio/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
