@@ -3,7 +3,7 @@ layout: archive
 title: "Community Afiliations"
 permalink: /organizations/
 author_profile: true
-residirects_from: 
+redirect_from: 
   - /resume
 ---
 
