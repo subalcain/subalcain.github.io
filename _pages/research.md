@@ -1,17 +1,17 @@
 ---
 layout: archive
-title: "Other Afiliations"
-permalink: /organizations/
+title: "Research Interests"
+permalink: /research/
 author_profile: true
 redirect_from:
-  - /organizations
+  - /resume
 ---
 
 {% include base_path %}
 
-North American Manx Association
+Celtic Languages
 ======
 
-American Gaelic Association
+Computational Linguistics
 ======
 
