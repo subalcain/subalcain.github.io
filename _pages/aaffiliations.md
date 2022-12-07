@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Community Affiliations"
-permalink: /affiliations/
+title: "Academic Affiliations"
+permalink: /aaffiliations/
 author_profile: true
 redirect_from:
   - /resume
