@@ -15,9 +15,11 @@ main:
   - title: "CV"
     url: /cv/
 
+  - title: "Academic Affiliations"
+    url: /aaffiliations/   
+   
   - title: "Community Affiliations"
-    url: /affiliations/    
-    
+    url: /affiliations/     
   # - title: "Portfolio"
   #   url: /portfolio/
         
