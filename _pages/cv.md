@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Updated CV (Fall 2023) can be accessed here: [Curriculum Vitae](https://subalcain.github.io/curriculum-vitae/ "Curriculum Vitae")
+Updated CV (Fall 2023) can be accessed here: [Curriculum Vitae](a href="/_pages/Irizarry_Luis_CV.pdf" download>Download My Resume</a>)
 
 
 
