@@ -10,7 +10,7 @@ redirect_from:
 
 Hello there! 
 
-I am a fifth year Ph.D. candidate in Linguistics at the University of Arizona with a focus on Celtic Linguistics. I have focused in the last few years in Scottish Gaelic syntax and Manx corpora. I was born and raised in Cabo Rojo, Puerto Rico and I completed my B.A. in Philosophy in the University of Puerto Rico at Mayaguez with a minor in linguistics. My Philosophy Undergraduate Thesis explored Pico Della Mirándola's Oration on the Dignity of Man and which selected lines are attributed to his Kabalistic doctrine. My Undergraduate Thesis in linguistics explored "donkey sentences" with multiple quantifiers. Outside of linguistics and research, I devote my time to the support of philanthropic groups such as Shriners Hospitals for Children, and the Knights Templar Eye Foundation, Cryptic Masons Medical Research Foundation, among others.
+I am a fifth year Ph.D. candidate in Linguistics at the University of Arizona with a focus on Celtic Linguistics. I have focused in the last few years in Scottish Gaelic syntax and Manx corpora. I was born and raised in Cabo Rojo, Puerto Rico and I completed my B.A. in Philosophy in the University of Puerto Rico at Mayaguez with a minor in linguistics. My Philosophy Undergraduate Thesis explored Pico Della Mirándola's Oration on the Dignity of Man and which selected lines are attributed to his Kabalistic doctrine. My Undergraduate Thesis in linguistics explored "donkey sentences" with multiple quantifiers. Outside of linguistics and research, I devote my time to the support of civil and philanthropic groups such as Rotary International, Shriners Hospitals for Children,the Knights Templar Eye Foundation, Cryptic Masons Medical Research Foundation, among others.
 
 
 
