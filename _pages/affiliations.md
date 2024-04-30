@@ -28,8 +28,6 @@ Rotary International
 * Rotary International is one of the largest service organizations in the world. The mission of Rotary, as stated on its website, is to "provide service to others, promote integrity, and advance world understanding, goodwill, and peace through the fellowship of business, professional, and community leaders".
 * ![](pictures/rotary.jpg)
 
-
-
 Knights Templar Eye Foundation
 ======
 * The Knights Templar Eye Foundation, incorporated in 1956, is a charity sponsored by the Grand Encampment of Knights Templar. The Foundation is governed by a Board of Trustees comprised of the six elected officers of the Grand Encampment, all Past Grand Masters of the Grand Encampment, and six trustees-at-large elected from and by the membership for a term of nine years. It is exempt from federal income taxation under Section 501 (c) 3 of the Internal Revenue Code and contributions made to the Foundation are deductible by donors.
