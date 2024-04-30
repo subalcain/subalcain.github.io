@@ -26,7 +26,7 @@ American Gaelic Society
 Rotary International
 ======
 * Rotary International is one of the largest service organizations in the world. The mission of Rotary, as stated on its website, is to "provide service to others, promote integrity, and advance world understanding, goodwill, and peace through the fellowship of business, professional, and community leaders".
-<!-- * ![](pictures/rotary.jpg) -->
+* ![](pictures/rotary.jpg)
 
 Knights Templar Eye Foundation
 ======
