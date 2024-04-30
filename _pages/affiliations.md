@@ -23,6 +23,13 @@ American Gaelic Society
 * An Comunn Gàidhealach Ameireaganach (ACGA) is the American Scottish Gaelic Society. ACGA's mission is to nurture and preserve Scottish Gaelic language and culture, particularly in North America.
 * ![](pictures/ags.jpg)
 
+Rotary International
+======
+* Rotary International is one of the largest service organizations in the world. The mission of Rotary, as stated on its website, is to "provide service to others, promote integrity, and advance world understanding, goodwill, and peace through the fellowship of business, professional, and community leaders".
+* ![](pictures/rotary.jpeg)
+
+
+
 Knights Templar Eye Foundation
 ======
 * The Knights Templar Eye Foundation, incorporated in 1956, is a charity sponsored by the Grand Encampment of Knights Templar. The Foundation is governed by a Board of Trustees comprised of the six elected officers of the Grand Encampment, all Past Grand Masters of the Grand Encampment, and six trustees-at-large elected from and by the membership for a term of nine years. It is exempt from federal income taxation under Section 501 (c) 3 of the Internal Revenue Code and contributions made to the Foundation are deductible by donors.
